@@ -1,0 +1,26 @@
+{
+  "name": "@shaheershahzad/adventure-game",
+  "version": "0.0.1",
+  "description": "Command Line Adventure Game using Node.js, TypeScript, and Inquirer",
+  "homepage": "https://github.com/ShaheerShahzadOfficial/TypeScript-Projects/blob/main/Adventure-Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/index",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
