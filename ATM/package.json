@@ -1,7 +1,8 @@
 {
   "name": "@shaheershahzad/atm",
   "version": "0.0.1",
-  "description": "Command Line Calculator using Node.js, TypeScript, and Inquirer",
+  "homepage": "https://github.com/ShaheerShahzadOfficial/TypeScript-Projects/tree/main/ATM",
+  "description": "Command Line ATM using Node.js, TypeScript, and Inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "./dist/index.js",

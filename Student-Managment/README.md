@@ -1,1 +1,1 @@
-npx @shaheershahzad/cli-calculator
+npx @shaheershahzad/student-management

@@ -1,7 +1,7 @@
 {
   "name": "@shaheershahzad/my-bank",
   "version": "0.0.1",
-  "description": "Command Line Quiz App using Node.js, TypeScript, and Inquirer",
+  "description": "Command Line Bank App using Node.js, TypeScript, and Inquirer",
   "homepage": "https://github.com/ShaheerShahzadOfficial/TypeScript-Projects/blob/main/My-Bank",
   "main": "index.js",
   "type": "module",

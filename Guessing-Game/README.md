@@ -1,1 +1,1 @@
-npx @shaheershahzad/cli-calculator
+npx @shaheershahzad/guessing-game

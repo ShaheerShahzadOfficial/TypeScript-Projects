@@ -1,7 +1,8 @@
 {
   "name": "@shaheershahzad/guessing-game",
   "version": "0.0.1",
-  "description": "Command Line Calculator using Node.js, TypeScript, and Inquirer",
+  "homepage": "https://github.com/ShaheerShahzadOfficial/TypeScript-Projects/tree/main/Guessing-Game",
+  "description": "Command Line Number Guessing Game using Node.js, TypeScript, and Inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "./dist/index.js",

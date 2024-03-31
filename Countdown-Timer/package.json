@@ -1,7 +1,7 @@
 {
   "name": "@shaheershahzad/countdown-timer",
   "version": "0.0.1",
-  "description": "Command Line Calculator using Node.js, TypeScript, and Inquirer",
+  "description": "Command Line Countdown-Timer using Node.js, TypeScript, and Inquirer",
   "homepage": "https://github.com/ShaheerShahzadOfficial/TypeScript-Projects/blob/main/Countdown-Timer",
   "main": "index.js",
   "type": "module",

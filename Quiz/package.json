@@ -1,6 +1,7 @@
 {
   "name": "@shaheershahzad/quiz-app",
   "version": "0.0.1",
+  "homepage": "https://github.com/ShaheerShahzadOfficial/TypeScript-Projects/tree/main/Quiz",
   "description": "Command Line Quiz App using Node.js, TypeScript, and Inquirer",
   "main": "index.js",
   "type": "module",
